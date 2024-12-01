@@ -1,0 +1,16 @@
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.Form1.resources
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.csproj.GenerateResource.cache
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.AssemblyInfoInputs.cache
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.AssemblyInfo.cs
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.csproj.CoreCompileInputs.cache
+C:\Users\zs0b\source\repos\baitap_3\bin\Debug\net8.0-windows\baitap_3.exe
+C:\Users\zs0b\source\repos\baitap_3\bin\Debug\net8.0-windows\baitap_3.deps.json
+C:\Users\zs0b\source\repos\baitap_3\bin\Debug\net8.0-windows\baitap_3.runtimeconfig.json
+C:\Users\zs0b\source\repos\baitap_3\bin\Debug\net8.0-windows\baitap_3.dll
+C:\Users\zs0b\source\repos\baitap_3\bin\Debug\net8.0-windows\baitap_3.pdb
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.dll
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\refint\baitap_3.dll
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.pdb
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\baitap_3.genruntimeconfig.cache
+C:\Users\zs0b\source\repos\baitap_3\obj\Debug\net8.0-windows\ref\baitap_3.dll
