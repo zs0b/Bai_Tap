@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\bin\Debug\bt3.2_nguyentatdat.exe.config
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\bin\Debug\bt3.2_nguyentatdat.exe
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\bin\Debug\bt3.2_nguyentatdat.pdb
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\obj\Debug\bt3.2_nguyentatdat.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\obj\Debug\bt3._2_nguyentatdat.Form1.resources
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\obj\Debug\bt3._2_nguyentatdat.Properties.Resources.resources
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\obj\Debug\bt3.2_nguyentatdat.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\obj\Debug\bt3.2_nguyentatdat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\obj\Debug\bt3.2_nguyentatdat.exe
+C:\Users\Administrator\source\repos\bt3.2_nguyentatdat\bt3.2_nguyentatdat\obj\Debug\bt3.2_nguyentatdat.pdb
